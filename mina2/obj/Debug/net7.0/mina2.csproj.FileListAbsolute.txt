@@ -1,0 +1,15 @@
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\bin\Debug\net7.0\mina2.exe
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\bin\Debug\net7.0\mina2.deps.json
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\bin\Debug\net7.0\mina2.runtimeconfig.json
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\bin\Debug\net7.0\mina2.dll
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\bin\Debug\net7.0\mina2.pdb
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\obj\Debug\net7.0\mina2.csproj.AssemblyReference.cache
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\obj\Debug\net7.0\mina2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\obj\Debug\net7.0\mina2.AssemblyInfoInputs.cache
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\obj\Debug\net7.0\mina2.AssemblyInfo.cs
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\obj\Debug\net7.0\mina2.csproj.CoreCompileInputs.cache
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\obj\Debug\net7.0\mina2.dll
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\obj\Debug\net7.0\refint\mina2.dll
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\obj\Debug\net7.0\mina2.pdb
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\obj\Debug\net7.0\mina2.genruntimeconfig.cache
+C:\Users\mixai\OneDrive\Рабочий стол\Vivo\Mina1\mina2\obj\Debug\net7.0\ref\mina2.dll
